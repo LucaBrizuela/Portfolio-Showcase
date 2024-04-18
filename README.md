@@ -59,7 +59,7 @@ By presenting a collection of high-quality projects, I aim to showcase my abilit
 <!-- Instalation (Example) -->
 ## Installation
 
-_Below is an example, the final product is going to have changes._
+_The following steps provide an example, and the final instructions may vary.._
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
