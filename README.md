@@ -26,21 +26,20 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
+<!-- Index -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Index</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">Project Description</a>
-      <a href="#installation">Installation</a></li>
-      <a href="#usage">Usage</a></li>
-      <a href="#roadmap">Roadmap</a></li>
-      <a href="#contributing">Contributing</a></li>
-      <a href="#license">License</a></li>
-      <a href="#contact">Contact</a></li>
-    <li>
+    <li><a href="#about-the-project">Project Description</a></li>
+    <li><a href="#installation">Installation</a></li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
+
 
 
 
