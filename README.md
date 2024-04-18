@@ -32,18 +32,13 @@
   <ol>
     <li>
       <a href="#about-the-project">Project Description</a>
-      <ul>
-      </ul>
-    </li>
+      <a href="#installation">Installation</a></li>
+      <a href="#usage">Usage</a></li>
+      <a href="#roadmap">Roadmap</a></li>
+      <a href="#contributing">Contributing</a></li>
+      <a href="#license">License</a></li>
+      <a href="#contact">Contact</a></li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul> 
-    <li> <a href="#installation">Installation</a></li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -68,14 +63,6 @@ By presenting a collection of high-quality projects, I aim to showcase my abilit
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
