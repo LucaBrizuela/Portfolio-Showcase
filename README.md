@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/LucaBrizuela/Portfolio-Showcase">
     <img src="Proyect Images/Dj-HqT-UUAATz9a.png" alt="Logo" width="200" height="200">
   </a>
 
