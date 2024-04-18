@@ -68,7 +68,7 @@ Each project featured in this portfolio is carefully crafted to demonstrate not 
 
 By presenting a collection of high-quality projects, I aim to showcase my ability to tackle real-world challenges, collaborate effectively with teams, and continuously learn and adapt to new technologies and methodologies. Through this portfolio, I seek to not only impress potential employers but also inspire confidence in my ability to contribute meaningfully to any software development team.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">--><a href="#readme-top">Top of the Page</a><--</p>
 
 
 
