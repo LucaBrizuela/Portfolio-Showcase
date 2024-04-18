@@ -19,7 +19,7 @@
     <a href="https://github.com/LucaBrizuela"><strong>Luca Brizuela Fernández »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/LucaBrizuela/Portfolio-Showcase">Main Page</a>
+    <a href="https://github.com/LucaBrizuela/Portfolio-Showcase/blob/main/README.md#readme-top">Main Page</a>
     ·
     <a href="https://github.com/LucaBrizuela/Portfolio-Showcase/issues">Report Issues</a>
     ·
