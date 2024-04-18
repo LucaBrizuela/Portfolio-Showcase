@@ -14,9 +14,9 @@
   <h3 align="center">Portfolio Showcase</h3>
 
   <p align="center">
-    Made by: Luca Brizuela Fernández
+    Made by:
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/LucaBrizuela"><strong>Luca Brizuela Fernández »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
