@@ -34,7 +34,6 @@
     <li><a href="#installation">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -83,9 +82,35 @@ _Below is an example, the final product is going to have changes._
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This section is dedicated to showcasing practical examples of how the project can be utilized effectively. Here, you'll find a collection of helpful resources including additional screenshots, code snippets, and demos that illustrate various aspects of the project's functionality. Additionally, you can find links to more resources that provide further insights and guidance on utilizing the project to its fullest potential.
+<p>Below are examples demonstrating how to use the Portfolio Showcase project and the expected outcomes:</p>
 
-I can redact something similar to: Please go to the [Support Materials](https://example.com)_ link for more examples!
+<h3>Example 1: Exploring Projects</h3>
+<p>To explore the projects in the portfolio:</p>
+<ol>
+  <li>Navigate to the main page of the portfolio.</li>
+  <li>Click on the title or description of a project to view its details.</li>
+  <li>Scroll through the project description to understand its purpose and features.</li>
+  <li>Click on the provided link to access the project repository for more information.</li>
+</ol>
+<p>Expected outcome: Users will gain insights into the projects showcased in the portfolio and can access their repositories for further exploration.</p>
+
+<h3>Example 2: Using Table of Contents</h3>
+<p>To navigate through the portfolio using the Table of Contents:</p>
+<ol>
+  <li>Click on the "Table of Contents" dropdown to view the list of sections.</li>
+  <li>Click on a section title to jump directly to that section.</li>
+  <li>Explore different sections of the portfolio, such as Project Description, Installation, Usage, and more.</li>
+</ol>
+<p>Expected outcome: Users can quickly navigate to specific sections of interest within the portfolio, enhancing their browsing experience.</p>
+
+<h3>Example 3: Interacting with Projects</h3>
+<p>To interact with individual projects:</p>
+<ol>
+  <li>Select a project from the portfolio.</li>
+  <li>Follow the provided instructions to install or use the project locally, if applicable.</li>
+  <li>Explore the project's features, screenshots, and demos to understand its functionality.</li>
+</ol>
+<p>Expected outcome: Users will gain hands-on experience with the projects, allowing them to assess the developer's coding abilities and skills effectively.</p>
 
 <p align="right">~<a href="#readme-top">Top of the Page</a>~</p>
 
@@ -144,24 +169,6 @@ I can redact something similar to: Please go to the [Support Materials](https://
 </body>
 </html>
 
-
-<p align="right">~<a href="#readme-top">Top of the Page</a>~</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 <p align="right">~<a href="#readme-top">Top of the Page</a>~</p>
 
