@@ -93,16 +93,6 @@ _For more examples, please go to the [Support Materials](https://example.com)_ l
 
 <!-- ROADMAP -->
 ## Roadmap
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Roadmap for Portfolio Showcase</title>
-</head>
-<body>
-  <h1>Roadmap for Portfolio Showcase</h1>
   <ol>
     <li>
       <input type="checkbox" checked> <strong>Project Selection</strong>
