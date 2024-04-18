@@ -30,11 +30,11 @@
 <details>
   <summary>Index</summary>
   <ol>
-    <li><a href="#about-the-project">Project Description</a></li>
+    <li><a href="#project-description">Project Description</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#license-information">License Information</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -56,7 +56,7 @@ By presenting a collection of high-quality projects, I aim to showcase my abilit
 <p align="right">~<a href="#readme-top">Top of the Page</a>~</p>
 
 
-<!-- GETTING STARTED -->
+<!-- Instalation (Example) -->
 ## Installation
 
 _Below is an example, the final product is going to have changes._
@@ -79,7 +79,7 @@ _Below is an example, the final product is going to have changes._
 
 
 
-<!-- USAGE EXAMPLES -->
+<!-- Usage -->
 ## Usage
 
 <p>Below are examples demonstrating how to use the Portfolio Showcase project and the expected outcomes:</p>
@@ -116,7 +116,7 @@ _Below is an example, the final product is going to have changes._
 
 
 
-<!-- ROADMAP -->
+<!-- Roadmap -->
 ## Roadmap
   <ol>
     <li>
@@ -174,8 +174,8 @@ _Below is an example, the final product is going to have changes._
 
 
 
-<!-- LICENSE -->
-## License
+<!-- License -->
+## License Information
 
 This project is distributed under the MIT License - see the `LICENSE.txt` file for details.
 
