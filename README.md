@@ -94,10 +94,10 @@ _Below is an example, the final product is going to have changes._
 </ol>
 <p>Expected outcome: Users will gain insights into the projects showcased in the portfolio and can access their repositories for further exploration.</p>
 
-<h3>Example 2: Using Table of Contents</h3>
-<p>To navigate through the portfolio using the Table of Contents:</p>
+<h3>Example 2: Using Index</h3>
+<p>To navigate through the portfolio using the Index:</p>
 <ol>
-  <li>Click on the "Table of Contents" dropdown to view the list of sections.</li>
+  <li>Click on the "Index" dropdown to view the list of sections.</li>
   <li>Click on a section title to jump directly to that section.</li>
   <li>Explore different sections of the portfolio, such as Project Description, Installation, Usage, and more.</li>
 </ol>
@@ -141,7 +141,7 @@ _Below is an example, the final product is going to have changes._
       <input type="checkbox" checked> <strong>Portfolio Enhancement</strong>
       <ul>
         <li><input type="checkbox" checked> Add a comprehensive README file outlining the purpose and structure of the portfolio.</li>
-        <li><input type="checkbox" checked> Include a Table of Contents for easy navigation.</li>
+        <li><input type="checkbox" checked> Include an Index for easy navigation.</li>
         <li><input type="checkbox" checked> Incorporate a "Getting Started" section with installation instructions and usage guidelines.</li>
         <li><input type="checkbox"> Implement a responsive design for better accessibility across devices.</li>
         <li><input type="checkbox"> Add a search feature to quickly locate specific projects within the portfolio.</li>
