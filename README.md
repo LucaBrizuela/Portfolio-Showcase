@@ -177,7 +177,7 @@ _Below is an example, the final product is going to have changes._
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+This project is distributed under the MIT License - see the `LICENSE.txt` file for details.
 
 <p align="right">~<a href="#readme-top">Top of the Page</a>~</p>
 
@@ -185,14 +185,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- Support -->
 ## Support
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Luca Brizuela Fernández - [@LinkedIn](https://www.linkedin.com/in/luca-brizuela-8a47a3300/) - lucabrizuela02@hotmail.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <p align="right">~<a href="#readme-top">Top of the Page</a>~</p>
-
-
-
-
-<!-- Links & Images -->
 
