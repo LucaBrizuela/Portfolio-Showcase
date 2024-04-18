@@ -83,9 +83,9 @@ _Below is an example, the final product is going to have changes._
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This section is dedicated to showcasing practical examples of how the project can be utilized effectively. Here, you'll find a collection of helpful resources including additional screenshots, code snippets, and demos that illustrate various aspects of the project's functionality. Additionally, you can find links to more resources that provide further insights and guidance on utilizing the project to its fullest potential."
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please go to the [Support Materials](https://example.com)_ link!
 
 <p align="right">~<a href="#readme-top">Top of the Page</a>~</p>
 
