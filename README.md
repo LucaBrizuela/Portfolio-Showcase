@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/LucaBrizuela/Portfolio-Showcase">
+  <a href="https://github.com/LucaBrizuela/Portfolio-Showcase/blob/main/README.md">
     <img src="Proyect Images/Dj-HqT-UUAATz9a.png" alt="Logo" width="200" height="200">
   </a>
 
