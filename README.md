@@ -8,13 +8,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="Proyect Images/Dj-HqT-UUAATz9a.png" alt="Logo" width="80" height="80">
+    <img src="Proyect Images/Dj-HqT-UUAATz9a.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">Portfolio-Showcase</h3>
+  <h3 align="center">Portfolio Showcase</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Made by: Luca Brizuela Fernández
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
