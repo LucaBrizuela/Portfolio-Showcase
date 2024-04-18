@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/luca-brizuela-8a47a3300/]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 [![Issues][issues-shield]][issues-url]
 
 
