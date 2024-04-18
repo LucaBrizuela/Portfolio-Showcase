@@ -187,7 +187,7 @@ This project is distributed under the MIT License - see the `LICENSE.txt` file f
 
 Luca Brizuela Fernández - [@LinkedIn](https://www.linkedin.com/in/luca-brizuela-8a47a3300/) - lucabrizuela02@hotmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/LucaBrizuela/Portfolio-Showcase](https://github.com/LucaBrizuela/Portfolio-Showcase/blob/main/README.md)
 
 <p align="right">~<a href="#readme-top">Top of the Page</a>~</p>
 
