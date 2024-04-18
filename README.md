@@ -2,7 +2,7 @@
 
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[issues-shield]][issues-url]
+[![Issues][issues-shield]][issues-url]
 
 
 
