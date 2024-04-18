@@ -94,15 +94,66 @@ _For more examples, please go to the [Support Materials](https://example.com)_ l
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Roadmap for Portfolio Showcase</title>
+</head>
+<body>
+  <h1>Roadmap for Portfolio Showcase</h1>
+  <ol>
+    <li>
+      <input type="checkbox" checked> <strong>Project Selection</strong>
+      <ul>
+        <li><input type="checkbox" checked> Curate a diverse range of software development projects.</li>
+        <li><input type="checkbox" checked> Ensure projects showcase proficiency in various programming languages, frameworks, and technologies.</li>
+        <li><input type="checkbox" checked> Ensure projects demonstrate problem-solving skills, creativity, and attention to detail.</li>
+      </ul>
+    </li>
+    <li>
+      <input type="checkbox" checked> <strong>Project Presentation</strong>
+      <ul>
+        <li><input type="checkbox" checked> Write detailed project descriptions highlighting their purpose and features.</li>
+        <li><input type="checkbox" checked> Include links to each project's repository for easy access.</li>
+        <li><input type="checkbox" checked> Provide examples of project usage and expected outcomes.</li>
+        <li><input type="checkbox" checked> Add screenshots and demos where applicable to enhance project presentation.</li>
+        <li><input type="checkbox" checked> Ensure clarity and professionalism in the presentation of each project.</li>
+      </ul>
+    </li>
+    <li>
+      <input type="checkbox" checked> <strong>Portfolio Enhancement</strong>
+      <ul>
+        <li><input type="checkbox" checked> Add a comprehensive README file outlining the purpose and structure of the portfolio.</li>
+        <li><input type="checkbox" checked> Include a Table of Contents for easy navigation.</li>
+        <li><input type="checkbox" checked> Incorporate a "Getting Started" section with installation instructions and usage guidelines.</li>
+        <li><input type="checkbox"> Implement a responsive design for better accessibility across devices.</li>
+        <li><input type="checkbox"> Add a search feature to quickly locate specific projects within the portfolio.</li>
+      </ul>
+    </li>
+    <li>
+      <input type="checkbox"> <strong>Continuous Improvement</strong>
+      <ul>
+        <li><input type="checkbox"> Collect feedback from peers and mentors to identify areas for improvement.</li>
+        <li><input type="checkbox"> Regularly update projects with new features, bug fixes, and optimizations.</li>
+        <li><input type="checkbox"> Explore new technologies and methodologies to incorporate into future projects.</li>
+        <li><input type="checkbox"> Expand the portfolio with additional projects to further showcase skills and expertise.</li>
+      </ul>
+    </li>
+    <li>
+      <input type="checkbox"> <strong>Community Engagement</strong>
+      <ul>
+        <li><input type="checkbox" checked> Share the portfolio with potential employers, recruiters, and hiring managers.</li>
+        <li><input type="checkbox"> Actively participate in software development communities to network and gain visibility.</li>
+        <li><input type="checkbox"> Contribute to open-source projects to demonstrate collaboration and teamwork skills.</li>
+        <li><input type="checkbox"> Offer assistance and mentorship to aspiring developers to give back to the community.</li>
+      </ul>
+    </li>
+  </ol>
+</body>
+</html>
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">~<a href="#readme-top">Top of the Page</a>~</p>
 
