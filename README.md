@@ -1,14 +1,11 @@
 <a name="readme-top"></a>
 
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/LucaBrizuela/Portfolio-Showcase/blob/main/README.md">
-    <img src="Proyect Images/Dj-HqT-UUAATz9a.png" alt="Logo" width="200" height="200">
+    <img src="Proyect Images/Dj-HqT-UUAATz9a.png" alt="Logo" width="250" height="250">
   </a>
 
   <h3 align="center">Portfolio Showcase</h3>
