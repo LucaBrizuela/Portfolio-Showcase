@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 
-<!-- PROJECT LOGO -->
+<!-- Logo -->
 <br />
 <div align="center">
   <a href="https://github.com/LucaBrizuela/Portfolio-Showcase/blob/main/README.md">
@@ -60,7 +60,7 @@ By presenting a collection of high-quality projects, I aim to showcase my abilit
 <!-- GETTING STARTED -->
 ## Installation
 
-_Below is an example, the final product could have changes._
+_Below is an example, the final product is going to have changes._
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
